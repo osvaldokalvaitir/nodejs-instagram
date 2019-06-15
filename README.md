@@ -68,7 +68,17 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Socket.io](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/socketio.md)
 
+### APIs
 
+- **Interna**
+
+  - **Rotas**
+
+    - Posts
+
+      - Adiciona novos posts
+      - Lista todos os posts
+      - Like nos posts
 
 ### Ferramentas
 
