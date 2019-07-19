@@ -4,8 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon src/index.js"
-  },
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },   
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
