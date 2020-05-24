@@ -1,7 +1,9 @@
 {
-  "name": "node-instagram",
+  "name": "nodejs-instagram",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/osvaldokalvaitir/nodejs-instagram.git",
+  "author": "Osvaldo Kalvaitir Filho <osvaldokalvaitir@outlook.com>",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon src/index.js",
