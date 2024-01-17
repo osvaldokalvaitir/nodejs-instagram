@@ -46,7 +46,7 @@ npm install | yarn
 npm run dev | yarn dev
 ```
 
-Click to learn more about the tools used: [Insomnia](https://github.com/osvaldokalvaitir/awesome/blob/main/src/api-clients/insomnia/insomnia.md), [MongoDB Atlas](https://github.com/osvaldokalvaitir/awesome/blob/main/src/sgdbs/mongodb/mongodb-atlas.md).
+Click to learn more about the tools used: [Insomnia](https://github.com/osvaldokalvaitir/awesome/blob/main/src/api-clients/insomnia.md), [MongoDB Atlas](https://github.com/osvaldokalvaitir/awesome/blob/main/src/sgdbs/mongodb/mongodb-atlas.md).
 
 ## :memo: License
 
